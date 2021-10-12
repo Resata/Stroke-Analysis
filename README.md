@@ -17,3 +17,4 @@ References:
 - https://datatofish.com/logistic-regression-python/
 - https://www.geeksforgeeks.org/
 - https://medium.com/
+- https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
